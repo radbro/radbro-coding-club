@@ -9,3 +9,11 @@ I figured we should just use Github itself to pin information & have long-runnin
 Long-running conversations on specific topics can be had using [issues](https://github.com/radbro/radbro-coding-club/issues/).
 
 Lesson plans, guides, + links to additional materials will be posted here as well.
+
+## radbro start where!
+- get into code : speed run ethereum
+- read a bit first : base camp 
+
+## check the chain 
+- [coin base camp](https://docs.base.org/base-camp/docs/welcome/)
+- [speed run ethereum](https://speedrunethereum.com)
