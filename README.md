@@ -17,3 +17,7 @@ Lesson plans, guides, + links to additional materials will be posted here as wel
 ## check the chain 
 - [coin base camp](https://docs.base.org/base-camp/docs/welcome/)
 - [speed run ethereum](https://speedrunethereum.com)
+
+## trees work git 
+some local repo info and git worktree:
+-[git work tree se2](https://mirror.xyz/quantumtekh.eth/jnuL3guybvgeXBFShILuiA53Pq9igs4jFcqYZpSqMNo)
