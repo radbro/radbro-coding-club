@@ -11,7 +11,8 @@ Long-running conversations on specific topics can be had using [issues](https://
 Lesson plans, guides, + links to additional materials will be posted here as well.
 
 ### Learning Resources
-[Speed Run Ethereum](https://speedrunethereum.com/) learn scaffold-eth and solidity  
+[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) learn the fundamentals of the EVM
+[Speed Run Ethereum](https://speedrunethereum.com/) learn scaffold-eth and solidity
 [Vyper By Example](https://vyper-by-example.org/) learn vyper - a fast, easy, and secure language to write smart contracts  
 
 ### Beginner Tech Stack 1 - Scaffold-ETH
